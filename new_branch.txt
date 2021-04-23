@@ -1,1 +1,2 @@
 A new file from feature branch.
+A new file from feature2 branch
