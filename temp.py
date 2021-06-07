@@ -1,4 +1,6 @@
-user_input = int(input())
+import random
+
+user_input = random.randint(0,20)
 
 fact = 1
 
